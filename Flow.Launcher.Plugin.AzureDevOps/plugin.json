@@ -1,0 +1,12 @@
+{
+    "ID": "88D390BA-C4EA-4A91-8118-C588DA4FBEFB",
+    "ActionKeyword": "ad",
+    "Name": "AzureDevOps",
+    "Description": "an Azure DevOps plugin for Flow-Launcher",
+    "Author": "edgett",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/edgett/Flow.Launcher.Plugin.AzureDevOps",
+    "IcoPath": "icon.png",
+    "ExecuteFileName": "Flow.Launcher.Plugin.AzureDevOps.dll"
+}
